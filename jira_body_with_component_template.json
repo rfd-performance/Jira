@@ -1,0 +1,14 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "_PROJECT_"
+       },
+       "summary": "_SUMMARY_",
+       "description": "_DESCRIPTION_",
+       "issuetype": {
+          "name": "_ISSUE_TYPE_"
+       },
+       "components" : [{"name": "_COMPONENT_"}]
+   }
+}
